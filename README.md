@@ -1,0 +1,1 @@
+The Food Delivery Mobile Application UI/UX Design project was created to provide users with a simple, modern, and efficient platform for ordering food online. The primary objective of this project was to design a seamless user experience that enables customers to browse restaurants, explore menus, place orders, and complete payments with minimal effort
